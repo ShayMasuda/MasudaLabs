@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Asteroid.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Asteroid.cs" Line="9" Column="25" />
+      <File FileName="Assets\Scripts\AsteroidFactory.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PlayerScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Projectile.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Weapons.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameParams.cs" Line="1" Column="1" />
+      <File FileName="Assets\Libraries\prefactory\PoolManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\BrokenAsteroid.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
